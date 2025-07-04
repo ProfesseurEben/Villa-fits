@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Villa-fits - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Villa-fits</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Welcome to Villa-fits!</h2>
+        <p>Your one-stop shop for renting ties, bow ties, and suits in every color.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Villa-fits. All rights reserved.</p>
+    </footer>
+</body>
+</html>
