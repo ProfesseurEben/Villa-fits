@@ -1,0 +1,168 @@
+<!-- index.html (Home Page) --><!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Villa-fits - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Dapper Rentals</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="products.html">Products</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header><section>
+    <h2>Welcome to Villa-fits!</h2>
+    <p>Rent stylish ties, neckties, and suits for any occasion. Different styles, colors, and sizes available!</p>
+    <p><a href="products.html" class="button">View Our Products</a></p>
+</section>
+
+<footer>
+    <p>© 2025 Villa-fits. All rights reserved.</p>
+</footer>
+
+</body>
+</html><!-- about.html (About Page) --><!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Villa-fits</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Villa-fits</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="products.html">Products</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header><section>
+    <h2>About Us</h2>
+    <p>At Villa-fits, we help you look your best for any event! From weddings to business meetings and casual gatherings, we provide a variety of stylish ties, neckties, and suits for rent.</p>
+    <p>Choose from different colors, types, and sizes to match your occasion.</p>
+</section>
+
+<footer>
+    <p>© 2025 Villa-fits. All rights reserved.</p>
+</footer>
+
+</body>
+</html><!-- products.html (Products Page with Editable Image Placeholders) --><!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - Dapper Rentals</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Villa-fits</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="products.html">Products</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header><section>
+    <h2>Our Rental Products</h2>
+
+    <h3>Suits (4 Types)</h3>
+    <ul>
+        <li>Small - [10,000] RWF<br>
+            <img src="images/suit_small.jpg" alt="Small Suit" width="300">
+        </li>
+        <li>Medium - [15,000] RWF<br>
+            <img src="images/suit_medium.jpg" alt="Medium Suit" width="300">
+        </li>
+        <li>Large - [20,000] RWF<br>
+            <img src="images/suit_large.jpg" alt="Large Suit" width="300">
+        </li>
+    </ul>
+
+    <h3>Neckties (2 Types)</h3>
+    <ul>
+        <li>White - [1,000] RWF<br>
+            <img src="images/necktie_white.jpg" alt="White Necktie" width="300">
+        </li>
+        <li>Red - [2,000] RWF<br>
+            <img src="images/necktie_red.jpg" alt="Red Necktie" width="300">
+        </li>
+        <li>Black - [3,000] RWF<br>
+            <img src="images/necktie_black.jpg" alt="Black Necktie" width="300">
+        </li>
+        <li>Blue - [4,000] RWF<br>
+            <img src="images/necktie_blue.jpg" alt="Blue Necktie" width="300">
+        </li>
+    </ul>
+
+    <h3>Ties / Bow Ties (2 Types)</h3>
+    <ul>
+        <li>Red - [5,000] RWF<br>
+            <img src="images/tie_red.jpg" alt="Red Tie" width="300">
+        </li>
+        <li>Black - [4,000] RWF<br>
+            <img src="images/tie_black.jpg" alt="Black Tie" width="300">
+        </li>
+        <li>Blue - [3,000] RWF<br>
+            <img src="images/tie_blue.jpg" alt="Blue Tie" width="300">
+        </li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2025 Villa-fits. All rights reserved.</p>
+</footer>
+
+</body>
+</html><!-- contact.html (Contact Page) --><!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Villa-fits</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Villa-fits</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="products.html">Products</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header><section>
+    <h2>Contact Us</h2>
+    <p>📞 Phone: +250 783 217 215</p>
+    <p>📧 Email: info@villafits.com</p>
+    <p>📍 Address: Kigali, Rwanda</p>
+</section>
+
+<footer>
+    <p>© 2025 Villa-fits. All rights reserved.</p>
+</footer>
+
+</body>
+</html>/* style.css (CSS for All Pages with Teal Theme and Editable Image Style) */ body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #e0f7f7; color: #333; }
+
+header { background-color: teal; color: white; padding: 1rem; text-align: center; }
+
+nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+
+nav a:hover { text-decoration: underline; }
+
+section { padding: 2rem; }
+
+footer { background-color: teal; color: white; text-align: center; padding: 1rem; margin-top: 2rem; }
+
+h1, h2, h3 { color: #006666; }
+
+.button { display: inline-block; padding: 10px 20px; background-color: #008080; color: white; text-decoration: none; border-radius: 5px; }
+
+ul li { margin-bottom: 1rem; }
+
+img { border-radius: 8px; margin-top: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.2); max-width: 100%; height: auto; }
