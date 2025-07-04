@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Villa-fits</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Villa-fits</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>Email: info@dapperrentals.com</p>
+        <p>Phone: +250 123 456 789</p>
+        <p>Address: Kigali, Rwanda</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Villa-fits. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
