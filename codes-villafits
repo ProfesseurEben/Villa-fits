@@ -56,7 +56,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Products - Dapper Rentals</title>
+    <title>Products - villa-fits</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -74,7 +74,7 @@
     <h3>Suits (4 Types)</h3>
     <ul>
         <li>Small - [10,000] RWF<br>
-            <img src="images/suit_small.jpg" alt="Small Suit" width="300">
+            <img src="images/suits.png" alt="Small Suit" width="300">
         </li>
         <li>Medium - [15,000] RWF<br>
             <img src="images/suit_medium.jpg" alt="Medium Suit" width="300">
@@ -87,7 +87,7 @@
     <h3>Neckties (2 Types)</h3>
     <ul>
         <li>White - [1,000] RWF<br>
-            <img src="images/necktie_white.jpg" alt="White Necktie" width="300">
+            <img src="images/screenshot 2025-07-15 165156.png" alt="White Necktie" width="300">
         </li>
         <li>Red - [2,000] RWF<br>
             <img src="images/necktie_red.jpg" alt="Red Necktie" width="300">
@@ -166,3 +166,4 @@ h1, h2, h3 { color: #006666; }
 ul li { margin-bottom: 1rem; }
 
 img { border-radius: 8px; margin-top: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.2); max-width: 100%; height: auto; }
+Update homepage
